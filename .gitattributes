@@ -1,0 +1,7 @@
+ (5 sloc)  151 Bytes
+# Auto detect text files and perform LF normalization
+* text=auto
+
+*.js linguist-language=Node
+*.css linguist-language=Node
+*.html linguist-language=Node
